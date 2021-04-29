@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834708718654",
+    "project_id": "zhuravel2077",
+    "storage_bucket": "zhuravel2077.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834708718654:android:92f0d460f95951b9e2fd6f",
+        "android_client_info": {
+          "package_name": "com.demoneater.weatherpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834708718654-tv95746vita4i0e7m4smnr22odvvnvjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD446GsXrYBoCDiaQQx09uFOeiDrY91TMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834708718654-tv95746vita4i0e7m4smnr22odvvnvjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
